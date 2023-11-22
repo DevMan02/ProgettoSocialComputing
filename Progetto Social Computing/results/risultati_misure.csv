@@ -1,0 +1,3 @@
+Nome Grafo,Clustering Medio,Centro del Grafo,Raggio,Distanza Media,Transitività,Omega,Sigma
+Grafo normale,0.1651253164742771,"Kevin Roitero, Stefano Mizzaro, Gianluca Demartini, Michael Soprano",2,2.651742993848257,0.14793856103476152,-0.012127851527258704,0.9186144709840567
+Grafo Preferential Attachment,0.20809719031047202,"David La Barbera, Kevin Roitero, Stefano Mizzaro, Gianluca Demartini, Damiano Spina, Michael Soprano, Vincenzo Della Mea, Davide Ceolin, Tim Draws, Alessandro Checco, Eddy Maddalena, Falk Scholer, Mark Sanderson",2,2.402939166097061,0.2923777019340159,0.0030507819184156793,0.999132413596928
